@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SimpleCalc</string>
+
+    <!-- activity_main -->
+    <string name="edit_hint">Digite um número</string>
+    <string name="image_sum">Botão de soma</string>
+    <string name="image_div">Botão de divisão</string>
+    <string name="image_sub">Botão de subtração</string>
+    <string name="image_mult">Botão de multiplicação</string>
+    <string name="text_result">Resultado</string>
 </resources>
