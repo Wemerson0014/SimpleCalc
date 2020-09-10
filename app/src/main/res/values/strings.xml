@@ -12,4 +12,5 @@
     <string name="toast_sub">Informar os números para subtrair</string>
     <string name="toast_div">Informar os números para dividir</string>
     <string name="toast_mult">Informar os números para multiplicar</string>
+    <string name="button_clear">c</string>
 </resources>

@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         sub()
         div()
         mult()
+        clearResult()
     }
 
     private fun sum() {
@@ -72,6 +73,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
+
     private fun mult() {
         val firstNumber = edit_first_number.text
         val secondNumber = edit_second_number.text
@@ -91,4 +93,9 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    private fun clearResult() {
+        button_clear.setOnClickListener {
+            text_result.text = ""
+        }
+    }
 }
