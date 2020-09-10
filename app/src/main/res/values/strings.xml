@@ -8,4 +8,8 @@
     <string name="image_sub">Botão de subtração</string>
     <string name="image_mult">Botão de multiplicação</string>
     <string name="text_result">Resultado</string>
+    <string name="toast_sum">Informar os números para somar</string>
+    <string name="toast_sub">Informar os números para subtrair</string>
+    <string name="toast_div">Informar os números para dividir</string>
+    <string name="toast_mult">Informar os números para multiplicar</string>
 </resources>

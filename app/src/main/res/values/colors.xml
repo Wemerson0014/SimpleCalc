@@ -3,4 +3,7 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <!-- ic_baseline_div / activity_main -->
+    <color name="ic_div_background">#a4d364</color>
 </resources>
